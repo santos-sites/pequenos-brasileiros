@@ -1528,7 +1528,7 @@ function showMainMenu() {
         <span>Números(Nível 14)</span>
       </button>
       <button class="level-btn level15-btn" onclick="showLevelMenu(15)">
-        <span>Jogos 2(Nível 15)</span>
+        <span>Números 2(Nível 15)</span>
       </button>
       <button class="level-btn level10-btn" onclick="showLevelMenu(10)">
         <span>Escola 2(Nível 10)</span>
