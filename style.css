@@ -180,6 +180,17 @@ img.book-img {
   background-image: url("images/Level12.png");
 }
 
+.level13-btn {
+  background-image: url("images/Level13.png");
+}
+
+.level14-btn {
+  background-image: url("images/Level14.png");
+}
+
+.level15-btn {
+  background-image: url("images/Level15.png");
+}
 .full-screen-game {
   background: var(--bg);
   width: 100%;
