@@ -3402,7 +3402,7 @@ const allStories = [
           en: "On a quiet night, when the farmer was already snoring in his hammock, the farm animals gathered with a secret plan: to throw a party.",
         },
         audio: {
-          pt: "audio/historias/historia2_page1.mp3",
+          pt: "audio/historias/historia2_page1.mp4",
           en: "audio/historias/en/historia2_page1.mp3",
         },
       },
@@ -3446,7 +3446,7 @@ const allStories = [
           en: "When the sun began to rise, each animal ran back to its place, pretending to be asleep. The farmer woke up, opened the barn door, and was puzzled to see straw scattered everywhere, muddy footprints on the floor, and even a chicken sleeping on top of the milk bucket.",
         },
         audio: {
-          pt: "audio/historias/historia2_page5.mp3",
+          pt: "audio/historias/historia2_page5.mp4",
           en: "audio/historias/en/historia2_page5.mp3",
         },
       },
