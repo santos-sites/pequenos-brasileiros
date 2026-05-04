@@ -3369,8 +3369,8 @@ const allStories = [
       {
         image: "images/books/catpage(4).png",
         text: {
-          pt: "E dormiu feliz, Toda molhada, Mimi voltou para casa. Sua dona riu e a enrolou em uma toalha quentinha. Mimi, você sempre arruma confusão",
-          en: "She slept happily. All wet, Mimi went back home. Her owner laughed and wrapped her in a warm towel. 'Mimi, you're always getting into trouble,' she said.",
+          pt: "Toda molhada, Mimi voltou para casa. Sua dona riu e a enrolou em uma toalha quentinha. Mimi, você sempre arruma confusão",
+          en: "All wet, Mimi went back home. Her owner laughed and wrapped her in a warm towel. 'Mimi, you're always getting into trouble,' she said.",
         },
         audio: {
           pt: "audio/historias/historia1_page5.mp3",
