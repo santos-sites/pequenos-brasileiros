@@ -3633,7 +3633,7 @@ const allStories = [
         en: "Maya was a little astronaut with a big imagination. More than anything, she wanted to fly past the stars and touch the moon."
       },
       audio: {
-        pt: "audio/historias/historia5_page1.mp3",
+        pt: "audio/historias/historia5_page1.mp4",
         en: "audio/historias/en/historia5_page1.mp3"
       }
     },
@@ -3644,7 +3644,7 @@ const allStories = [
         en: "One sunny afternoon, she found a big cardboard box. With markers, she drew buttons and windows. She even taped on shiny paper to make it look like a rocket."
       },
       audio: {
-        pt: "audio/historias/historia5_page2.mp3",
+        pt: "audio/historias/historia5_page2.mp4",
         en: "audio/historias/en/historia5_page2.mp3"
       }
     },
@@ -3655,7 +3655,7 @@ const allStories = [
         en: "She climbed inside, put on her toy helmet, and whispered, \"Three… Two… One… Blast off!\""
       },
       audio: {
-        pt: "audio/historias/historia5_page3.mp3",
+        pt: "audio/historias/historia5_page3.mp4",
         en: "audio/historias/en/historia5_page3.mp3"
       }
     },
@@ -3666,7 +3666,7 @@ const allStories = [
         en: "In her mind, the cardboard box shook and rumbled like a real rocket. Suddenly, she was zooming into the sky, leaving a trail of sparkles behind. Planets swirled in beautiful colors, and stars twinkled like diamonds."
       },
       audio: {
-        pt: "audio/historias/historia5_page4.mp3",
+        pt: "audio/historias/historia5_page4.mp4",
         en: "audio/historias/en/historia5_page4.mp3"
       }
     },
@@ -3677,7 +3677,7 @@ const allStories = [
         en: "On the moon, Maya planted a small paper flag with her name on it. She bounced and giggled, imagining little boot prints in the soft, gray dust."
       },
       audio: {
-        pt: "audio/historias/historia5_page5.mp3",
+        pt: "audio/historias/historia5_page5.mp4",
         en: "audio/historias/en/historia5_page5.mp3"
       }
     },
@@ -3688,7 +3688,7 @@ const allStories = [
         en: "Then she noticed something glowing — a lonely star that had fallen nearby. The star looked sad."
       },
       audio: {
-        pt: "audio/historias/historia5_page6.mp3",
+        pt: "audio/historias/historia5_page6.mp4",
         en: "audio/historias/en/historia5_page6.mp3"
       }
     },
@@ -3699,7 +3699,7 @@ const allStories = [
         en: "\"Don’t worry, little star,\" Maya said. \"I’ll take you back home.\""
       },
       audio: {
-        pt: "audio/historias/historia5_page7.mp3",
+        pt: "audio/historias/historia5_page7.mp4",
         en: "audio/historias/en/historia5_page7.mp3"
       }
     },
@@ -3710,7 +3710,7 @@ const allStories = [
         en: "She carefully pretended to place the star inside her rocket. Together, they soared higher and higher until they reached the star’s family in the sky."
       },
       audio: {
-        pt: "audio/historias/historia5_page8.mp3",
+        pt: "audio/historias/historia5_page8.mp4",
         en: "audio/historias/en/historia5_page8.mp3"
       }
     },
@@ -3721,7 +3721,7 @@ const allStories = [
         en: "The stars twinkled brighter than ever, saying thank you. Maya waved goodbye and steered her rocket back to Earth."
       },
       audio: {
-        pt: "audio/historias/historia5_page9.mp3",
+        pt: "audio/historias/historia5_page9.mp4",
         en: "audio/historias/en/historia5_page9.mp3"
       }
     },
@@ -3732,7 +3732,7 @@ const allStories = [
         en: "When she opened her eyes, she was back in her room, sitting inside her cardboard box. She smiled and whispered, \"Goodnight, stars. I’ll visit again soon.\""
       },
       audio: {
-        pt: "audio/historias/historia5_page10.mp3",
+        pt: "audio/historias/historia5_page10.mp4",
         en: "audio/historias/en/historia5_page10.mp3"
       },
     },
