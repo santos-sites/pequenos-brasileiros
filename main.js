@@ -3413,7 +3413,7 @@ const allStories = [
           en: "Bolota the pig was in charge of watching the barn door. If the farmer moved, he would tap his hooves on the ground as a warning. Meanwhile, the chickens prepared the stage: a row of hay bales became the bleachers and the old milk bucket became a drum.",
         },
         audio: {
-          pt: "audio/historias/historia2_page2.mp3",
+          pt: "audio/historias/historia2_page2.mp4",
           en: "audio/historias/en/historia2_page2.mp3",
         },
       },
@@ -3424,7 +3424,7 @@ const allStories = [
           en: "Thunder the horse started the show, tapping his hooves like a real drummer. Mimosa the cow joined the dance, swinging her tail from side to side as if she were the queen of the dance floor. Even the farm dog decided to participate, howling to the rhythm of the music.",
         },
         audio: {
-          pt: "audio/historias/historia2_page3.mp3",
+          pt: "audio/historias/historia2_page3.mp4",
           en: "audio/historias/en/historia2_page3.mp3",
         },
       },
@@ -3435,7 +3435,7 @@ const allStories = [
           en: "Then Bolota, trying to risk some dance moves while watching the door, slipped on a loose straw and rolled across the barn floor. The animals froze, afraid the noise would wake the farmer. But instead of worrying, Bolota stopped in a funny pose, with straw stuck in his ears. The scene was so ridiculous that everyone burst out laughing. The farm party became even more fun.",
         },
         audio: {
-          pt: "audio/historias/historia2_page4.mp3",
+          pt: "audio/historias/historia2_page4.mp4",
           en: "audio/historias/en/historia2_page4.mp3",
         },
       },
@@ -3457,7 +3457,7 @@ const allStories = [
           en: "He scratched his head, not understanding a thing, while the animals, hiding their laughter, put on innocent faces. The farm's secret party had been a success.",
         },
         audio: {
-          pt: "audio/historias/historia2_page6.mp3",
+          pt: "audio/historias/historia2_page6.mp4",
           en: "audio/historias/en/historia2_page6.mp3",
         },
       },
