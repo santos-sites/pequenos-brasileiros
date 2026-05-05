@@ -69,27 +69,29 @@ img.book-img {
   padding-right: 10px;      /* optional: keeps scrollbar from overlapping */
 }
 
-/* 1. The Container: Keeps everything in a neat, single horizontal line */
+/* 1. The Container */
 .levels-scroll {
   display: flex;
-  flex-wrap: nowrap;       /* Strictly horizontal */
-  gap: 12px;               /* Space between buttons */
-  padding: 10px 5px;       /* Top/bottom padding to prevent clipping */
-  overflow-x: auto;        /* Swiping enabled */
-  overflow-y: hidden;      /* KILLS the vertical scroll */
+  flex-wrap: nowrap;
+  gap: 12px;
+  padding: 10px 5px;
+  overflow-x: auto;
+  overflow-y: hidden;
   webkit-overflow-scrolling: touch;
   scroll-snap-type: x mandatory;
 }
 
-/* 2. The Buttons: Resizes based on the screen width */
+/* 2. The Buttons: Adjusted for better scaling */
 .level-btn {
-  flex: 0 0 100px;         /* Base width on small screens */
+  /* Changed to a percentage-based flex-basis so they scale with the screen */
+  flex: 0 0 28%;           
+  min-width: 90px;         /* Prevents them from getting too skinny */
+  max-width: 130px;        /* Prevents them from getting too huge */
   
-  /* Use 'vh' (viewport height) to ensure they never get taller 
-     than a small fraction of the screen height */
-  height: 18vh;            
-  max-height: 120px;       /* Caps the size on tablets/desktops */
-  min-height: 80px;        /* Ensures they don't disappear on tiny screens */
+  /* Height is tied to the screen height to prevent vertical overflow */
+  height: 15vh;            
+  min-height: 80px;
+  max-height: 110px;
 
   border: none;
   border-radius: 15px;
@@ -103,39 +105,31 @@ img.book-img {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   scroll-snap-align: start;
   position: relative;
+  transition: transform 0.2s ease;
 }
 
-/* 3. The Text: Keeps titles legible without stretching the button */
-.level-btn span {
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 3px 5px;
-  border-radius: 5px;
-  color: #fff;
-  font-size: 0.7rem;       /* Slightly smaller to fit more text */
-  width: 100%;
-  text-align: center;
-  white-space: normal;     /* Allows text to wrap slightly if needed */
-  line-height: 1.1;
-  word-wrap: break-word;   /* Prevents long words from breaking the layout */
-}
-
-/* This handles the text labels on the buttons */
+/* 3. The Text: Multi-line support so words aren't cut off */
 .level-btn span {
   position: relative;
   z-index: 1;
-  background-color: rgba(0, 0, 0, 0.6); /* Darker for better legibility */
-  padding: 4px 6px;
-  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.7); 
+  padding: 4px;
+  border-radius: 6px;
   color: #fff;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   width: 100%;
   text-align: center;
-  white-space: nowrap;      /* Keeps text on one line */
-  overflow: hidden;         /* Hides text if it's too long */
-  text-overflow: ellipsis;  /* Adds "..." if the word is too long */
+  
+  /* Key change: Allows text to wrap to 2 lines instead of cutting off */
+  white-space: normal;     
+  line-height: 1.2;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;    /* Limits text to 2 lines max */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
-/* Hover effect to make it feel interactive */
 .level-btn:hover {
   transform: scale(1.05);
 }
@@ -143,10 +137,8 @@ img.book-img {
 .level-btn::after {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
+  border-radius: 15px;
   background: rgba(255, 255, 255, 0);
   transition: background 0.2s ease;
   pointer-events: none;
