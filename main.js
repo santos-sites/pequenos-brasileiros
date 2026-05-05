@@ -1652,6 +1652,120 @@ const allLevelsWords = {
       phrase: "Eu ouço a música.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 19 - In the Kitchen (Na Cozinha)
+  // ----------------------
+  19: [
+    {
+      english: "Blender",
+      portuguese: "Liquidificador",
+      image: "images/19blender.png",
+      phrase: "O liquidificador faz uma vitamina deliciosa.",
+    },
+    {
+      english: "Stove",
+      portuguese: "Fogão",
+      image: "images/19stove.png",
+      phrase: "Cuidado, o fogão está quente.",
+    },
+    {
+      english: "Refrigerator",
+      portuguese: "Geladeira",
+      image: "images/19fridge.png",
+      phrase: "A água gelada está na geladeira.",
+    },
+    {
+      english: "Sink",
+      portuguese: "Pia",
+      image: "images/19sink.png",
+      phrase: "Eu lavo as mãos na pia da cozinha.",
+    },
+    {
+      english: "Pot",
+      portuguese: "Panela",
+      image: "images/19pot.png",
+      phrase: "A panela está cheia de sopa.",
+    },
+    {
+      english: "Frying Pan",
+      portuguese: "Frigideira",
+      image: "images/19pan.png",
+      phrase: "Eu uso a frigideira para fazer ovos.",
+    },
+    {
+      english: "Microwave",
+      portuguese: "Micro-ondas",
+      image: "images/19microwave.png",
+      phrase: "Aqueça a comida no micro-ondas.",
+    },
+    {
+      english: "Toaster",
+      portuguese: "Torradeira",
+      image: "images/19toaster.png",
+      phrase: "O pão está pronto na torradeira.",
+    },
+    {
+      english: "Oven",
+      portuguese: "Forno",
+      image: "images/19oven.png",
+      phrase: "O cheiro do bolo no forno está ótimo.",
+    },
+    {
+      english: "Cutting Board",
+      portuguese: "Tábua de cortar",
+      image: "images/19board.png",
+      phrase: "Corte os vegetais na tábua de cortar.",
+    },
+    {
+      english: "Plate",
+      portuguese: "Prato",
+      image: "images/19plate.png",
+      phrase: "O jantar está servido no prato.",
+    },
+    {
+      english: "Cup",
+      portuguese: "Copo",
+      image: "images/19cup.png",
+      phrase: "Eu bebo um copo de água.",
+    },
+    {
+      english: "Fork",
+      portuguese: "Garfo",
+      image: "images/19fork.png",
+      phrase: "Eu uso o garfo para comer salada.",
+    },
+    {
+      english: "Knife",
+      portuguese: "Faca",
+      image: "images/19knife.png",
+      phrase: "Use a faca para cortar o pão.",
+    },
+    {
+      english: "Spoon",
+      portuguese: "Colher",
+      image: "images/19spoon.png",
+      phrase: "A colher é para tomar sopa.",
+    },
+    {
+      english: "Napkin",
+      portuguese: "Guardanapo",
+      image: "images/19napkin.png",
+      phrase: "O guardanapo está ao lado do prato.",
+    },
+    {
+      english: "Mug",
+      portuguese: "Xícara",
+      image: "images/19mug.png",
+      phrase: "Eu bebo café quentinho na xícara.",
+    },
+    {
+      english: "Bowl",
+      portuguese: "Tigela",
+      image: "images/19bowl.png",
+      phrase: "Coloque o cereal na tigela.",
+    }
+  ],
 };
 
 // ----------------------
