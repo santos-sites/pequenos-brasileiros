@@ -2144,6 +2144,432 @@ const allLevelsWords = {
       phrase: "Eu estudo na minha escrivaninha.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 23 - In the City (Na Cidade)
+  // ----------------------
+  23: [
+    {
+      english: "Street",
+      portuguese: "Rua",
+      image: "images/23street.png",
+      phrase: "A rua está muito movimentada hoje.",
+    },
+    {
+      english: "Sidewalk",
+      portuguese: "Calçada",
+      image: "images/23sidewalk.png",
+      phrase: "Caminhe sempre pela calçada.",
+    },
+    {
+      english: "Building",
+      portuguese: "Prédio",
+      image: "images/23building.png",
+      phrase: "Aquele prédio é o mais alto da cidade.",
+    },
+    {
+      english: "Traffic Light",
+      portuguese: "Farol",
+      image: "images/23light.png",
+      phrase: "Pare quando o farol estiver vermelho.",
+    },
+    {
+      english: "Crosswalk",
+      portuguese: "Faixa de pedestre",
+      image: "images/23crosswalk.png",
+      phrase: "Atravesse a rua na faixa de pedestre.",
+    },
+    {
+      english: "Corner",
+      portuguese: "Esquina",
+      image: "images/23corner.png",
+      phrase: "A farmácia fica bem na esquina.",
+    },
+    {
+      english: "Bus Stop",
+      portuguese: "Ponto de ônibus",
+      image: "images/23busstop.png",
+      phrase: "Eu estou esperando no ponto de ônibus.",
+    },
+    {
+      english: "Square",
+      portuguese: "Praça",
+      image: "images/23square.png",
+      phrase: "As crianças brincam na praça central.",
+    },
+    {
+      english: "Police Station",
+      portuguese: "Delegacia",
+      image: "images/23police.png",
+      phrase: "A delegacia fica perto do centro.",
+    },
+    {
+      english: "Town Hall",
+      portuguese: "Prefeitura",
+      image: "images/23townhall.png",
+      phrase: "A prefeitura cuida dos serviços da cidade.",
+    },
+    {
+      english: "Gas Station",
+      portuguese: "Posto de gasolina",
+      image: "images/23gas.png",
+      phrase: "Preciso abastecer o carro no posto de gasolina.",
+    },
+    {
+      english: "Museum",
+      portuguese: "Museu",
+      image: "images/23museum.png",
+      phrase: "O museu tem quadros muito antigos.",
+    },
+    {
+      english: "Movie Theater",
+      portuguese: "Cinema",
+      image: "images/23movie.png",
+      phrase: "Vamos ver um filme no cinema hoje à noite.",
+    },
+    {
+      english: "Post Office",
+      portuguese: "Correios",
+      image: "images/23post.png",
+      phrase: "Eu vou postar uma carta nos correios.",
+    },
+    {
+      english: "Bank",
+      portuguese: "Banco",
+      image: "images/23bank.png",
+      phrase: "O banco fecha às quatro da tarde.",
+    },
+    {
+      english: "Parking Lot",
+      portuguese: "Estacionamento",
+      image: "images/23parking.png",
+      phrase: "O estacionamento está cheio.",
+    },
+    {
+      english: "Bakery",
+      portuguese: "Padaria",
+      image: "images/23bakery.png",
+      phrase: "O cheiro de pão fresco vem da padaria.",
+    },
+    {
+      english: "Pharmacy",
+      portuguese: "Farmácia",
+      image: "images/23pharmacy.png",
+      phrase: "Eu preciso comprar remédio na farmácia.",
+    },
+    {
+      english: "Hospital",
+      portuguese: "Hospital",
+      image: "images/23hospital.png",
+      phrase: "O hospital fica a duas quadras daqui.",
+    },
+    {
+      english: "Library",
+      portuguese: "Biblioteca",
+      image: "images/23library.png",
+      phrase: "Eu vou pegar um livro na biblioteca.",
+    },
+    {
+      english: "Avenue",
+      portuguese: "Avenida",
+      image: "images/23avenue.png",
+      phrase: "A avenida principal é muito larga.",
+    },
+    {
+      english: "Bridge",
+      portuguese: "Ponte",
+      image: "images/23bridge.png",
+      phrase: "O carro atravessa a ponte.",
+    },
+    {
+      english: "Park",
+      portuguese: "Parque",
+      image: "images/23park.png",
+      phrase: "Vamos caminhar no parque no domingo.",
+    },
+    {
+      english: "Church",
+      portuguese: "Igreja",
+      image: "images/23church.png",
+      phrase: "A igreja tem um sino grande.",
+    }
+  ],
+
+  // ----------------------
+  // LEVEL 24 - The Calendar (O Calendário)
+  // ----------------------
+  24: [
+    {
+      english: "Monday",
+      portuguese: "Segunda-feira",
+      image: "images/24monday.png",
+      phrase: "A segunda-feira é o começo da semana.",
+    },
+    {
+      english: "Tuesday",
+      portuguese: "Terça-feira",
+      image: "images/24tuesday.png",
+      phrase: "Eu tenho aula na terça-feira.",
+    },
+    {
+      english: "Wednesday",
+      portuguese: "Quarta-feira",
+      image: "images/24wednesday.png",
+      phrase: "A quarta-feira é o meio da semana.",
+    },
+    {
+      english: "Thursday",
+      portuguese: "Quinta-feira",
+      image: "images/24thursday.png",
+      phrase: "O jantar é especial na quinta-feira.",
+    },
+    {
+      english: "Friday",
+      portuguese: "Sexta-feira",
+      image: "images/24friday.png",
+      phrase: "Eu fico feliz na sexta-feira.",
+    },
+    {
+      english: "Saturday",
+      portuguese: "Sábado",
+      image: "images/24saturday.png",
+      phrase: "O sábado é dia de descansar.",
+    },
+    {
+      english: "Sunday",
+      portuguese: "Domingo",
+      image: "images/24sunday.png",
+      phrase: "No domingo eu corro no parque.",
+    },
+    {
+      english: "Today",
+      portuguese: "Hoje",
+      image: "images/24today.png",
+      phrase: "Hoje o dia está muito bonito.",
+    },
+    {
+      english: "Tomorrow",
+      portuguese: "Amanhã",
+      image: "images/24tomorrow.png",
+      phrase: "Amanhã nós vamos viajar.",
+    },
+    {
+      english: "Yesterday",
+      portuguese: "Ontem",
+      image: "images/24yesterday.png",
+      phrase: "Ontem eu comi pizza no jantar.",
+    },
+    {
+      english: "Week",
+      portuguese: "Semana",
+      image: "images/24week.png",
+      phrase: "A semana passou muito rápido.",
+    },
+    {
+      english: "Month",
+      portuguese: "Mês",
+      image: "images/24month.png",
+      phrase: "Qual é o seu mês favorito?",
+    },
+    {
+      english: "Year",
+      portuguese: "Ano",
+      image: "images/24year.png",
+      phrase: "O ano novo começa em janeiro.",
+    },
+    {
+      english: "Weekend",
+      portuguese: "Final de semana",
+      image: "images/24weekend.png",
+      phrase: "O que você vai fazer no final de semana?",
+    },
+    {
+      english: "Birthday",
+      portuguese: "Aniversário",
+      image: "images/24birthday.png",
+      phrase: "Hoje é o meu aniversário!",
+    },
+    {
+      english: "Morning",
+      portuguese: "Manhã",
+      image: "images/24morning.png",
+      phrase: "Eu tomo café logo de manhã.",
+    },
+    {
+      english: "Afternoon",
+      portuguese: "Tarde",
+      image: "images/24afternoon.png",
+      phrase: "Eu estudo durante a tarde.",
+    },
+    {
+      english: "Night",
+      portuguese: "Noite",
+      image: "images/24night.png",
+      phrase: "Boa noite, durma bem.",
+    },
+    {
+      english: "Time",
+      portuguese: "Tempo",
+      image: "images/24time.png",
+      phrase: "Eu preciso de mais tempo.",
+    },
+    {
+      english: "Schedule",
+      portuguese: "Cronograma",
+      image: "images/24schedule.png",
+      phrase: "Olhe o cronograma de treinos.",
+    },
+    {
+      english: "Holiday",
+      portuguese: "Feriado",
+      image: "images/24holiday.png",
+      phrase: "Na segunda-feira é feriado.",
+    }
+  ],
+
+  // ----------------------
+  // LEVEL 25 - Prepositions (Preposições)
+  // ----------------------
+  25: [
+    {
+      english: "On / On top",
+      portuguese: "Em cima",
+      image: "images/25on.png",
+      phrase: "O gato está em cima da mesa.",
+    },
+    {
+      english: "Under",
+      portuguese: "Embaixo",
+      image: "images/25under.png",
+      phrase: "O cachorro dorme embaixo da cama.",
+    },
+    {
+      english: "Inside",
+      portuguese: "Dentro",
+      image: "images/25inside.png",
+      phrase: "Os brinquedos estão dentro da caixa.",
+    },
+    {
+      english: "Outside",
+      portuguese: "Fora",
+      image: "images/25outside.png",
+      phrase: "As crianças brincam fora de casa.",
+    },
+    {
+      english: "Next to",
+      portuguese: "Ao lado",
+      image: "images/25nextto.png",
+      phrase: "Sente-se ao lado da Cece.",
+    },
+    {
+      english: "Between",
+      portuguese: "Entre",
+      image: "images/25between.png",
+      phrase: "O abajur fica entre as camas.",
+    },
+    {
+      english: "Behind",
+      portuguese: "Atrás",
+      image: "images/25behind.png",
+      phrase: "Quem está atrás da porta?",
+    },
+    {
+      english: "In front of",
+      portuguese: "Na frente",
+      image: "images/25front.png",
+      phrase: "O carro está parado na frente da casa.",
+    },
+    {
+      english: "Near",
+      portuguese: "Perto",
+      image: "images/25near.png",
+      phrase: "Eu moro perto do parque.",
+    },
+    {
+      english: "Far",
+      portuguese: "Longe",
+      image: "images/25far.png",
+      phrase: "A escola fica longe daqui.",
+    },
+    {
+      english: "Above",
+      portuguese: "Acima",
+      image: "images/25above.png",
+      phrase: "O quadro está acima do sofá.",
+    },
+    {
+      english: "Below",
+      portuguese: "Abaixo",
+      image: "images/25below.png",
+      phrase: "A temperatura está abaixo de zero.",
+    },
+    {
+      english: "Around",
+      portuguese: "Em volta",
+      image: "images/25around.png",
+      phrase: "Nós corremos em volta da pista.",
+    },
+    {
+      english: "Through",
+      portuguese: "Através",
+      image: "images/25through.png",
+      phrase: "Eu vejo a luz através da janela.",
+    },
+    {
+      english: "With",
+      portuguese: "Com",
+      image: "images/25with.png",
+      phrase: "Eu vou com você ao mercado.",
+    },
+    {
+      english: "Without",
+      portuguese: "Sem",
+      image: "images/25without.png",
+      phrase: "Eu não saio de casa sem meu celular.",
+    },
+    {
+      english: "Before",
+      portuguese: "Antes",
+      image: "images/25before.png",
+      phrase: "Lave as mãos antes de comer.",
+    },
+    {
+      english: "After",
+      portuguese: "Depois",
+      image: "images/25after.png",
+      phrase: "Nós vamos brincar depois do almoço.",
+    },
+    {
+      english: "Against",
+      portuguese: "Contra",
+      image: "images/25against.png",
+      phrase: "A escada está encostada contra a parede.",
+    },
+    {
+      english: "During",
+      portuguese: "Durante",
+      image: "images/25during.png",
+      phrase: "Não fale durante o filme.",
+    },
+    {
+      english: "Until",
+      portuguese: "Até",
+      image: "images/25until.png",
+      phrase: "Eu vou ficar aqui até amanhã.",
+    },
+    {
+      english: "Across from",
+      portuguese: "Do outro lado",
+      image: "images/25across.png",
+      phrase: "A padaria fica do outro lado da rua.",
+    },
+    {
+      english: "Towards",
+      portuguese: "Em direção a",
+      image: "images/25towards.png",
+      phrase: "Nós caminhamos em direção à praia.",
+    },
+  ],
 };
 
 // ----------------------
