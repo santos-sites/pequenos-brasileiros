@@ -204,6 +204,54 @@ img.book-img {
   background-image: url("images/Level18.png");
 }
 
+.level19-btn {
+  background-image: url("images/Level19.png");
+}
+
+.level20-btn {
+  background-image: url("images/Level20.png");
+}
+
+.level21-btn {
+  background-image: url("images/Level21.png");
+}
+
+.level22-btn {
+  background-image: url("images/Level22.png");
+}
+
+.level23-btn {
+  background-image: url("images/Level23.png");
+}
+
+.level24-btn {
+  background-image: url("images/Level24.png");
+}
+
+.level25-btn {
+  background-image: url("images/Level25.png");
+}
+
+.level26-btn {
+  background-image: url("images/Level26.png");
+}
+
+.level27-btn {
+  background-image: url("images/Level27.png");
+}
+
+.level28-btn {
+  background-image: url("images/Level28.png");
+}
+
+.level29-btn {
+  background-image: url("images/Level29.png");
+}
+
+.level30-btn {
+  background-image: url("images/Level30.png");
+}
+
 .full-screen-game {
   background: var(--bg);
   width: 100%;
