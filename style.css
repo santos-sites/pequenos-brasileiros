@@ -71,14 +71,11 @@ img.book-img {
 
 .levels-scroll {
   display: flex;
-  flex-wrap: nowrap;
-  gap: 10px;
-  overflow-x: auto;          /* horizontal scroll only */
-  overflow-y: hidden;        /* prevent clipping vertically */
-  padding: 5px 0;           /* ⬅ extra breathing room top/bottom */
-  scroll-snap-type: x mandatory;
-  scroll-behavior: smooth;
-  -webkit-overflow-scrolling: touch;
+  flex-wrap: wrap;      /* This allows buttons to drop to the next line */
+  gap: 10px;            /* The space between buttons */
+  justify-content: center;
+  padding: 10px 0;
+  overflow-x: hidden;   /* We don't need horizontal scroll if they wrap */
 }
 
 /* --- Consolidated & Responsive Level Buttons --- */
