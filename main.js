@@ -3462,7 +3462,7 @@ function showMainMenu() {
 <div class="levels-container">
     <div class="levels-scroll">
       <button class="level-btn level1-btn" onclick="showLevelMenu(1)">
-        <span>Família</span>
+        <span>Família(Nível 1)</span>
       </button>
       <button class="level-btn level2-btn" onclick="showLevelMenu(2)">
         <span>Animais</span>
