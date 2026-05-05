@@ -2864,6 +2864,156 @@ const allLevelsWords = {
       phrase: "O vizinho é muito barulhento.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 28 - Manners & Politeness (Boas Maneiras)
+  // ----------------------
+  28: [
+    {
+      english: "Please",
+      portuguese: "Por favor",
+      image: "images/28please.png",
+      phrase: "Um café, por favor.",
+    },
+    {
+      english: "Thank you",
+      portuguese: "Obrigado / Obrigada",
+      image: "images/28thanks.png",
+      phrase: "Muito obrigado pela sua ajuda.",
+    },
+    {
+      english: "You're welcome",
+      portuguese: "De nada",
+      image: "images/28welcome.png",
+      phrase: "De nada! Foi um prazer ajudar.",
+    },
+    {
+      english: "Excuse me",
+      portuguese: "Com licença",
+      image: "images/28excuse.png",
+      phrase: "Com licença, posso passar?",
+    },
+    {
+      english: "Sorry",
+      portuguese: "Desculpe",
+      image: "images/28sorry.png",
+      phrase: "Desculpe pelo meu atraso.",
+    },
+    {
+      english: "Nice to meet you",
+      portuguese: "Prazer em conhecê-lo",
+      image: "images/28nice.png",
+      phrase: "Oi! Prazer em conhecê-lo.",
+    },
+    {
+      english: "Bless you / Cheers",
+      portuguese: "Saúde!",
+      image: "images/28bless.png",
+      phrase: "Saúde! Que você melhore logo.",
+    },
+    {
+      english: "Enjoy your meal",
+      portuguese: "Bom apetite",
+      image: "images/28appetite.png",
+      phrase: "A comida está servida. Bom apetite!",
+    },
+    {
+      english: "Welcome",
+      portuguese: "Seja bem-vindo",
+      image: "images/28welcome_in.png",
+      phrase: "Seja bem-vindo à nossa casa.",
+    },
+    {
+      english: "How can I help?",
+      portuguese: "Pois não?",
+      image: "images/28help.png",
+      phrase: "Pois não? Como posso ajudar você hoje?",
+    },
+    {
+      english: "Good morning",
+      portuguese: "Bom dia",
+      image: "images/28morning.png",
+      phrase: "Bom dia! Como você está?",
+    },
+    {
+      english: "Good afternoon",
+      portuguese: "Boa tarde",
+      image: "images/28afternoon.png",
+      phrase: "Boa tarde a todos os presentes.",
+    },
+    {
+      english: "Good night",
+      portuguese: "Boa noite",
+      image: "images/28night.png",
+      phrase: "Boa noite e bons sonhos.",
+    },
+    {
+      english: "See you later",
+      portuguese: "Até logo",
+      image: "images/28later.png",
+      phrase: "Eu tenho que ir agora, até logo!",
+    },
+    {
+      english: "See you tomorrow",
+      portuguese: "Até amanhã",
+      image: "images/28tomorrow.png",
+      phrase: "Tchau! A gente se vê até amanhã.",
+    },
+    {
+      english: "I'm sorry / Pardon",
+      portuguese: "Perdão",
+      image: "images/28pardon.png",
+      phrase: "Peço perdão pelo erro.",
+    },
+    {
+      english: "Good luck",
+      portuguese: "Boa sorte",
+      image: "images/28luck.png",
+      phrase: "Boa sorte na sua corrida hoje!",
+    },
+    {
+      english: "Congratulations",
+      portuguese: "Parabéns",
+      image: "images/28congrats.png",
+      phrase: "Parabéns pelo seu aniversário!",
+    },
+    {
+      english: "Of course",
+      portuguese: "Com certeza",
+      image: "images/28sure.png",
+      phrase: "Eu vou te ajudar, com certeza!",
+    },
+    {
+      english: "No problem",
+      portuguese: "Sem problemas",
+      image: "images/28noproblem.png",
+      phrase: "Não se preocupe, sem problemas.",
+    },
+    {
+      english: "Can you help me?",
+      portuguese: "Pode me ajudar?",
+      image: "images/28canhelp.png",
+      phrase: "Por favor, pode me ajudar com isso?",
+    },
+    {
+      english: "Just a moment",
+      portuguese: "Só um momento",
+      image: "images/28moment.png",
+      phrase: "Só um momento, por favor.",
+    },
+    {
+      english: "Have a good day",
+      portuguese: "Tenha um bom dia",
+      image: "images/28goodday.png",
+      phrase: "Tchau! Tenha um bom dia.",
+    },
+    {
+      english: "I don't understand",
+      portuguese: "Não entendo",
+      image: "images/28understand.png",
+      phrase: "Desculpe, eu ainda não entendo muito bem.",
+    }
+  ],
 };
 
 // ----------------------
