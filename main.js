@@ -1322,6 +1322,336 @@ const allLevelsWords = {
     },
    
   ],
+  
+  // ----------------------
+  // LEVEL 16 - Parts of the Body (O Corpo)
+  // ----------------------
+  16: [
+    {
+      english: "Head",
+      portuguese: "Cabeça",
+      image: "images/16head.png",
+      phrase: "Onde está sua cabeça?",
+    },
+    {
+      english: "Hand",
+      portuguese: "Mão",
+      image: "images/16hand.png",
+      phrase: "Dê tchau com a mão.",
+    },
+    {
+      english: "Foot",
+      portuguese: "Pé",
+      image: "images/16foot.png",
+      phrase: "O pé tem cinco dedos.",
+    },
+    {
+      english: "Eyes",
+      portuguese: "Olhos",
+      image: "images/16eyes.png",
+      phrase: "Eu vejo com meus olhos.",
+    },
+    {
+      english: "Nose",
+      portuguese: "Nariz",
+      image: "images/16nose.png",
+      phrase: "O nariz sente o cheiro.",
+    },
+    {
+      english: "Mouth",
+      portuguese: "Boca",
+      image: "images/16mouth.png",
+      phrase: "A boca serve para comer.",
+    },
+    {
+      english: "Ear",
+      portuguese: "Orelha",
+      image: "images/16ear.png",
+      phrase: "Eu ouço com as orelhas.",
+    },
+    {
+      english: "Hair",
+      portuguese: "Cabelo",
+      image: "images/16hair.png",
+      phrase: "Meu cabelo é curto.",
+    },
+    {
+      english: "Shoulder",
+      portuguese: "Ombro",
+      image: "images/16shoulder.png",
+      phrase: "Coloque a mão no seu ombro.",
+    },
+    {
+      english: "Knee",
+      portuguese: "Joelho",
+      image: "images/16knee.png",
+      phrase: "Eu bati o meu joelho.",
+    },
+    {
+      english: "Finger",
+      portuguese: "Dedo",
+      image: "images/16finger.png",
+      phrase: "Eu tenho cinco dedos na mão.",
+    },
+    {
+      english: "Tummy",
+      portuguese: "Barriga",
+      image: "images/16tummy.png",
+      phrase: "Minha barriga está cheia.",
+    },
+    {
+      english: "Neck",
+      portuguese: "Pescoço",
+      image: "images/16neck.png",
+      phrase: "O pescoço é comprido.",
+    },
+    {
+      english: "Back",
+      portuguese: "Costas",
+      image: "images/16back.png",
+      phrase: "Eu lavo as minhas costas.",
+    },
+    {
+      english: "Arm",
+      portuguese: "Braço",
+      image: "images/16arm.png",
+      phrase: "Eu te dou um abraço com meus braços.",
+    },
+    {
+      english: "Leg",
+      portuguese: "Perna",
+      image: "images/16leg.png",
+      phrase: "Minha perna é forte.",
+    },
+    {
+      english: "Tongue",
+      portuguese: "Língua",
+      image: "images/16tongue.png",
+      phrase: "Mostre a sua língua!",
+    },
+    {
+      english: "Teeth",
+      portuguese: "Dentes",
+      image: "images/16teeth.png",
+      phrase: "Meus dentes são branquinhos.",
+    }
+  ],
+
+  // ----------------------
+  // LEVEL 17 - Weather and Nature (Clima e Natureza)
+  // ----------------------
+  17: [
+    {
+      english: "Rain",
+      portuguese: "Chuva",
+      image: "images/17rain.png",
+      phrase: "A chuva molha a grama.",
+    },
+    {
+      english: "Snow",
+      portuguese: "Neve",
+      image: "images/17snow.png",
+      phrase: "A neve é gelada e branca.",
+    },
+    {
+      english: "Wind",
+      portuguese: "Vento",
+      image: "images/17wind.png",
+      phrase: "O vento balança as árvores.",
+    },
+    {
+      english: "Garden",
+      portuguese: "Jardim",
+      image: "images/17garden.png",
+      phrase: "Vamos brincar no jardim.",
+    },
+    {
+      english: "Beach",
+      portuguese: "Praia",
+      image: "images/17beach.png",
+      phrase: "Eu gosto de brincar na praia.",
+    },
+    {
+      english: "Sand",
+      portuguese: "Areia",
+      image: "images/17sand.png",
+      phrase: "As meninas brincam na areia.",
+    },
+    {
+      english: "Ocean",
+      portuguese: "Oceano",
+      image: "images/17ocean.png",
+      phrase: "O oceano é azul e profundo.",
+    },
+    {
+      english: "Thunder",
+      portuguese: "Trovão",
+      image: "images/17thunder.png",
+      phrase: "O trovão faz um barulho alto.",
+    },
+    {
+      english: "Mountain",
+      portuguese: "Montanha",
+      image: "images/17mountain.png",
+      phrase: "A montanha é muito alta.",
+    },
+    {
+      english: "Rainbow",
+      portuguese: "Arco-íris",
+      image: "images/17rainbow.png",
+      phrase: "O arco-íris é muito colorido.",
+    },
+    {
+      english: "Forest",
+      portuguese: "Floresta",
+      image: "images/17forest.png",
+      phrase: "Muitos animais vivem na floresta.",
+    },
+    {
+      english: "Leaf",
+      portuguese: "Folha",
+      image: "images/17leaf.png",
+      phrase: "A folha caiu da árvore.",
+    },
+    {
+      english: "Rock",
+      portuguese: "Pedra",
+      image: "images/17rock.png",
+      phrase: "A pedra é dura.",
+    },
+    {
+      english: "Moon",
+      portuguese: "Lua",
+      image: "images/17moon.png",
+      phrase: "A lua brilha à noite.",
+    },
+    {
+      english: "Sky",
+      portuguese: "Céu",
+      image: "images/17sky.png",
+      phrase: "O céu está muito bonito.",
+    },
+    {
+      english: "Hot",
+      portuguese: "Quente",
+      image: "images/17hot.png",
+      phrase: "Hoje o dia está muito quente.",
+    },
+    {
+      english: "Cold",
+      portuguese: "Frio",
+      image: "images/17cold.png",
+      phrase: "Eu preciso de um casaco no frio.",
+    }
+  ],
+
+  // ----------------------
+  // LEVEL 18 - Daily Routines (Rotina)
+  // ----------------------
+  18: [
+    {
+      english: "To Bathe",
+      portuguese: "Tomar banho",
+      image: "images/18bath.png",
+      phrase: "É hora de tomar banho.",
+    },
+    {
+      english: "To Brush Teeth",
+      portuguese: "Escovar os dentes",
+      image: "images/18teeth.png",
+      phrase: "Eu escovo meus dentes.",
+    },
+    {
+      english: "To Eat",
+      portuguese: "Comer",
+      image: "images/18eat.png",
+      phrase: "É hora de comer o jantar.",
+    },
+    {
+      english: "To Drink",
+      portuguese: "Beber",
+      image: "images/18drink.png",
+      phrase: "Eu bebo água quando tenho sede.",
+    },
+    {
+      english: "To Sleep",
+      portuguese: "Dormir",
+      image: "images/18sleep.png",
+      phrase: "O bebê está pronto para dormir.",
+    },
+    {
+      english: "To Play",
+      portuguese: "Brincar",
+      image: "images/18play.png",
+      phrase: "Vamos brincar juntas!",
+    },
+    {
+      english: "To Run",
+      portuguese: "Correr",
+      image: "images/18run.png",
+      phrase: "A Clara gosta de correr no parque.",
+    },
+    {
+      english: "To Jump",
+      portuguese: "Pular",
+      image: "images/18jump.png",
+      phrase: "A Cece pula na cama elástica.",
+    },
+    {
+      english: "To Read",
+      portuguese: "Ler",
+      image: "images/18read.png",
+      phrase: "Eu gosto de ler com você.",
+    },
+    {
+      english: "To Wash",
+      portuguese: "Lavar",
+      image: "images/18wash.png",
+      phrase: "Eu vou lavar as minhas mãos.",
+    },
+    {
+      english: "To Sing",
+      portuguese: "Cantar",
+      image: "images/18sing.png",
+      phrase: "Nós gostamos de cantar juntas.",
+    },
+    {
+      english: "To Dance",
+      portuguese: "Dançar",
+      image: "images/18dance.png",
+      phrase: "Nós gostamos de darçar na sala.",
+    },
+    {
+      english: "To Draw",
+      portuguese: "Desenhar",
+      image: "images/18draw.png",
+      phrase: "Eu vou desenhar uma flor.",
+    },
+    {
+      english: "To Help",
+      portuguese: "Ajudar",
+      image: "images/18help.png",
+      phrase: "Eu gosto de ajudar você.",
+    },
+    {
+      english: "To Smile",
+      portuguese: "Sorrir",
+      image: "images/18smile.png",
+      phrase: "Seu sorriso é lindo!",
+    },
+    {
+      english: "To Walk",
+      portuguese: "Caminhar",
+      image: "images/18walk.png",
+      phrase: "Nós vamos caminhar no parque.",
+    },
+    {
+      english: "To Listen",
+      portuguese: "Ouvir",
+      image: "images/18listen.png",
+      phrase: "Eu ouço a música.",
+    }
+  ],
 };
 
 // ----------------------
