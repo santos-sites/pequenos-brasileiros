@@ -1766,6 +1766,120 @@ const allLevelsWords = {
       phrase: "Coloque o cereal na tigela.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 20 - Clothing (Roupas)
+  // ----------------------
+  20: [
+    {
+      english: "Shirt",
+      portuguese: "Camisa",
+      image: "images/20shirt.png",
+      phrase: "Eu visto minha camisa favorita.",
+    },
+    {
+      english: "Pants",
+      portuguese: "Calças",
+      image: "images/20pants.png",
+      phrase: "Minhas calças são confortáveis.",
+    },
+    {
+      english: "Shoes",
+      portuguese: "Sapatos",
+      image: "images/20shoes.png",
+      phrase: "Meus sapatos são novos.",
+    },
+    {
+      english: "Socks",
+      portuguese: "Meias",
+      image: "images/20socks.png",
+      phrase: "Eu calço minhas meias de lã.",
+    },
+    {
+      english: "Coat",
+      portuguese: "Casaco",
+      image: "images/20coat.png",
+      phrase: "Vista seu casaco porque está frio.",
+    },
+    {
+      english: "Dress",
+      portuguese: "Vestido",
+      image: "images/20dress.png",
+      phrase: "Ela tem um vestido muito bonito.",
+    },
+    {
+      english: "Skirt",
+      portuguese: "Saia",
+      image: "images/20skirt.png",
+      phrase: "A saia é de cor azul.",
+    },
+    {
+      english: "Hat",
+      portuguese: "Chapéu",
+      image: "images/20hat.png",
+      phrase: "O chapéu protege o rosto do sol.",
+    },
+    {
+      english: "Pajamas",
+      portuguese: "Pijama",
+      image: "images/20pajamas.png",
+      phrase: "É hora de colocar o pijama.",
+    },
+    {
+      english: "Underwear",
+      portuguese: "Roupa de baixo",
+      image: "images/20underwear.png",
+      phrase: "A roupa de baixo está na gaveta.",
+    },
+    {
+      english: "Boots",
+      portuguese: "Botas",
+      image: "images/20boots.png",
+      phrase: "Usamos botas quando está nevando.",
+    },
+    {
+      english: "Shorts",
+      portuguese: "Shorts",
+      image: "images/20shorts.png",
+      phrase: "Eu uso shorts no verão.",
+    },
+    {
+      english: "Sweater",
+      portuguese: "Suéter",
+      image: "images/20sweater.png",
+      phrase: "Este suéter é muito macio.",
+    },
+    {
+      english: "Sunglasses",
+      portuguese: "Óculos de sol",
+      image: "images/20glasses.png",
+      phrase: "Eu uso óculos de sol na praia.",
+    },
+    {
+      english: "Umbrella",
+      portuguese: "Guarda-chuva",
+      image: "images/20umbrella.png",
+      phrase: "Pegue o guarda-chuva, está chovendo.",
+    },
+    {
+      english: "Belt",
+      portuguese: "Cinto",
+      image: "images/20belt.png",
+      phrase: "Eu preciso de um cinto para estas calças.",
+    },
+    {
+      english: "Scarf",
+      portuguese: "Cachecol",
+      image: "images/20scarf.png",
+      phrase: "O cachecol mantém meu pescoço quente.",
+    },
+    {
+      english: "Gloves",
+      portuguese: "Luvas",
+      image: "images/20gloves.png",
+      phrase: "Minhas luvas são pretas.",
+    }
+  ],
 };
 
 // ----------------------
