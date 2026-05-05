@@ -1994,6 +1994,156 @@ const allLevelsWords = {
       phrase: "Já é tarde e eu estou com sono.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 22 - Furniture & Rooms (Móveis e Cômodos)
+  // ----------------------
+  22: [
+    {
+      english: "Bedroom",
+      portuguese: "Quarto",
+      image: "images/22bedroom.png",
+      phrase: "O quarto é o lugar de descansar.",
+    },
+    {
+      english: "Bed",
+      portuguese: "Cama",
+      image: "images/22bed.png",
+      phrase: "A cama é muito confortável.",
+    },
+    {
+      english: "Pillow",
+      portuguese: "Travesseiro",
+      image: "images/22pillow.png",
+      phrase: "Eu gosto de dormir com dois travesseiros.",
+    },
+    {
+      english: "Wardrobe",
+      portuguese: "Guarda-roupa",
+      image: "images/22wardrobe.png",
+      phrase: "Minhas roupas estão no guarda-roupa.",
+    },
+    {
+      english: "Bathroom",
+      portuguese: "Banheiro",
+      image: "images/22bathroom.png",
+      phrase: "O bathroom fica no final do corredor.",
+    },
+    {
+      english: "Shower",
+      portuguese: "Chuveiro",
+      image: "images/22shower.png",
+      phrase: "A água do chuveiro está quente.",
+    },
+    {
+      english: "Towel",
+      portuguese: "Toalha",
+      image: "images/22towel.png",
+      phrase: "A toalha está pendurada no banheiro.",
+    },
+    {
+      english: "Living Room",
+      portuguese: "Sala de estar",
+      image: "images/22living.png",
+      phrase: "Nós assistimos TV na sala de estar.",
+    },
+    {
+      english: "Couch",
+      portuguese: "Sofá",
+      image: "images/22couch.png",
+      phrase: "O sofá é grande o suficiente para todos.",
+    },
+    {
+      english: "Armchair",
+      portuguese: "Poltrona",
+      image: "images/22armchair.png",
+      phrase: "Eu gosto de ler sentado na poltrona.",
+    },
+    {
+      english: "Lamp",
+      portuguese: "Lâmpada",
+      image: "images/22lamp.png",
+      phrase: "Acenda a lâmpada para iluminar a sala.",
+    },
+    {
+      english: "Mirror",
+      portuguese: "Espelho",
+      image: "images/22mirror.png",
+      phrase: "Eu me vejo no espelho.",
+    },
+    {
+      english: "Rug",
+      portuguese: "Tapete",
+      image: "images/22rug.png",
+      phrase: "O tapete da sala é macio.",
+    },
+    {
+      english: "Shelf",
+      portuguese: "Estante",
+      image: "images/22shelf.png",
+      phrase: "Os livros estão organizados na estante.",
+    },
+    {
+      english: "Window",
+      portuguese: "Janela",
+      image: "images/22window.png",
+      phrase: "Abra a janela para entrar ar fresco.",
+    },
+    {
+      english: "Door",
+      portuguese: "Porta",
+      image: "images/22door.png",
+      phrase: "Por favor, feche a porta.",
+    },
+    {
+      english: "Wall",
+      portuguese: "Parede",
+      image: "images/22wall.png",
+      phrase: "A parede está pintada de branco.",
+    },
+    {
+      english: "Curtain",
+      portuguese: "Cortina",
+      image: "images/22curtain.png",
+      phrase: "A cortina bloqueia a luz do sol.",
+    },
+    {
+      english: "Laundry Room",
+      portuguese: "Lavanderia",
+      image: "images/22laundry.png",
+      phrase: "Eu lavo as roupas na lavanderia.",
+    },
+    {
+      english: "Balcony",
+      portuguese: "Varanda",
+      image: "images/22balcony.png",
+      phrase: "A varanda tem uma vista bonita.",
+    },
+    {
+      english: "Hallway",
+      portuguese: "Corredor",
+      image: "images/22hallway.png",
+      phrase: "O corredor liga os quartos.",
+    },
+    {
+      english: "Ceiling",
+      portuguese: "Teto",
+      image: "images/22ceiling.png",
+      phrase: "O teto está pintado de branco.",
+    },
+    {
+      english: "Floor",
+      portuguese: "Chão",
+      image: "images/22floor.png",
+      phrase: "O chão da sala está limpo.",
+    },
+    {
+      english: "Desk",
+      portuguese: "Escrivaninha",
+      image: "images/22desk.png",
+      phrase: "Eu estudo na minha escrivaninha.",
+    }
+  ],
 };
 
 // ----------------------
