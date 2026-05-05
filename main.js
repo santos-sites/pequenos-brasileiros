@@ -3014,6 +3014,294 @@ const allLevelsWords = {
       phrase: "Desculpe, eu ainda não entendo muito bem.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 29 - Community (Comunidade)
+  // ----------------------
+  29: [
+    {
+      english: "Hospital",
+      portuguese: "Hospital",
+      image: "images/29hospital.png",
+      phrase: "O hospital fica a duas quadras daqui.",
+    },
+    {
+      english: "Pharmacy",
+      portuguese: "Farmácia",
+      image: "images/29pharmacy.png",
+      phrase: "Eu preciso comprar remédio na farmácia.",
+    },
+    {
+      english: "Supermarket",
+      portuguese: "Supermercado",
+      image: "images/29supermarket.png",
+      phrase: "Vou ao supermercado fazer as compras.",
+    },
+    {
+      english: "Post Office",
+      portuguese: "Correios",
+      image: "images/29postoffice.png",
+      phrase: "Eu vou postar uma carta nos correios.",
+    },
+    {
+      english: "Bank",
+      portuguese: "Banco",
+      image: "images/29bank.png",
+      phrase: "O banco fecha às quatro da tarde.",
+    },
+    {
+      english: "Bakery",
+      portuguese: "Padaria",
+      image: "images/29bakery.png",
+      phrase: "O pãozinho da padaria está sempre fresco.",
+    },
+    {
+      english: "Police Station",
+      portuguese: "Delegacia",
+      image: "images/29police.png",
+      phrase: "A delegacia fica perto do centro.",
+    },
+    {
+      english: "Gas Station",
+      portuguese: "Posto de gasolina",
+      image: "images/29gas.png",
+      phrase: "Abasteça o carro no posto de gasolina.",
+    },
+    {
+      english: "School",
+      portuguese: "Escola",
+      image: "images/29school.png",
+      phrase: "As crianças estudam na escola primária.",
+    },
+    {
+      english: "Library",
+      portuguese: "Biblioteca",
+      image: "images/29library.png",
+      phrase: "A biblioteca é um lugar silencioso para ler.",
+    },
+    {
+      english: "Gym",
+      portuguese: "Academia",
+      image: "images/29gym.png",
+      phrase: "Eu vou para a academia treinar.",
+    },
+    {
+      english: "Fire Station",
+      portuguese: "Corpo de bombeiros",
+      image: "images/29fire.png",
+      phrase: "O corpo de bombeiros ajuda em emergências.",
+    },
+    {
+      english: "Church",
+      portuguese: "Igreja",
+      image: "images/29church.png",
+      phrase: "A igreja da praça é muito antiga.",
+    },
+    {
+      english: "Cinema",
+      portuguese: "Cinema",
+      image: "images/29movie.png",
+      phrase: "Vamos ver um filme no cinema hoje?",
+    },
+    {
+      english: "Museum",
+      portuguese: "Museu",
+      image: "images/29museum.png",
+      phrase: "O museu conta a história da cidade.",
+    },
+    {
+      english: "Park",
+      portuguese: "Parque",
+      image: "images/29park.png",
+      phrase: "O parque é ótimo para fazer um piquenique.",
+    },
+    {
+      english: "Airport",
+      portuguese: "Aeroporto",
+      image: "images/29airport.png",
+      phrase: "O avião pousou no aeroporto internacional.",
+    },
+    {
+      english: "Bus Station",
+      portuguese: "Rodoviária",
+      image: "images/29bus.png",
+      phrase: "O ônibus para o interior sai da rodoviária.",
+    },
+    {
+      english: "Square",
+      portuguese: "Praça",
+      image: "images/29square.png",
+      phrase: "A praça central tem um chafariz lindo.",
+    },
+    {
+      english: "Mall",
+      portuguese: "Shopping",
+      image: "images/29mall.png",
+      phrase: "Vou ao shopping comprar roupas novas.",
+    },
+    {
+      english: "Beach",
+      portuguese: "Praia",
+      image: "images/29beach.png",
+      phrase: "No verão, todos vão para a praia.",
+    },
+    {
+      english: "Barbershop / Salon",
+      portuguese: "Barbearia / Salão",
+      image: "images/29salon.png",
+      phrase: "Vou cortar o cabelo na barbearia.",
+    },
+  ],
+
+  // ----------------------
+  // LEVEL 30 - Professions (Profissões)
+  // ----------------------
+  30: [
+    {
+      english: "Teacher",
+      portuguese: "Professor / Professora",
+      image: "images/30teacher.png",
+      phrase: "O professor ensina a lição aos alunos.",
+    },
+    {
+      english: "Doctor",
+      portuguese: "Médico / Médica",
+      image: "images/30doctor.png",
+      phrase: "A médica cuida da saúde das pessoas.",
+    },
+    {
+      english: "Nurse",
+      portuguese: "Enfermeiro / Enfermeira",
+      image: "images/30nurse.png",
+      phrase: "O enfermeiro trabalha no hospital.",
+    },
+    {
+      english: "Police Officer",
+      portuguese: "Policial",
+      image: "images/30police.png",
+      phrase: "O policial protege a nossa comunidade.",
+    },
+    {
+      english: "Firefighter",
+      portuguese: "Bombeiro",
+      image: "images/30firefighter.png",
+      phrase: "O bombeiro apaga o fogo com cuidado.",
+    },
+    {
+      english: "Chef",
+      portuguese: "Cozinheiro / Cozinheira",
+      image: "images/30chef.png",
+      phrase: "A cozinheira prepara pratos deliciosos.",
+    },
+    {
+      english: "Dentist",
+      portuguese: "Dentista",
+      image: "images/30dentist.png",
+      phrase: "Eu vou ao dentista limpar meus dentes.",
+    },
+    {
+      english: "Driver",
+      portuguese: "Motorista",
+      image: "images/30driver.png",
+      phrase: "O motorista dirige o ônibus da escola.",
+    },
+    {
+      english: "Artist",
+      portuguese: "Artista",
+      image: "images/30artist.png",
+      phrase: "O artista pintou um quadro colorido.",
+    },
+    {
+      english: "Pilot",
+      portuguese: "Piloto",
+      image: "images/30pilot.png",
+      phrase: "O piloto voa o avião pelo céu.",
+    },
+    {
+      english: "Engineer",
+      portuguese: "Engenheiro / Engenheira",
+      image: "images/30engineer.png",
+      phrase: "O engenheiro constrói prédios e pontes.",
+    },
+    {
+      english: "Lawyer",
+      portuguese: "Advogado / Advogada",
+      image: "images/30lawyer.png",
+      phrase: "A advogada ajuda seus clientes no tribunal.",
+    },
+    {
+      english: "Writer",
+      portuguese: "Escritor / Escritora",
+      image: "images/30writer.png",
+      phrase: "O escritor está escrevendo um novo livro.",
+    },
+    {
+      english: "Scientist",
+      portuguese: "Cientista",
+      image: "images/30scientist.png",
+      phrase: "A cientista faz experimentos no laboratório.",
+    },
+    {
+      english: "Architect",
+      portuguese: "Arquiteto / Arquiteta",
+      image: "images/30architect.png",
+      phrase: "O arquiteto desenha a planta da casa.",
+    },
+    {
+      english: "Photographer",
+      portuguese: "Fotógrafo / Fotógrafa",
+      image: "images/30photographer.png",
+      phrase: "O fotógrafo tira fotos na festa.",
+    },
+    {
+      english: "Electrician",
+      portuguese: "Eletricista",
+      image: "images/30electrician.png",
+      phrase: "O eletricista conserta a fiação da casa.",
+    },
+    {
+      english: "Plumber",
+      portuguese: "Encanador / Encanadora",
+      image: "images/30plumber.png",
+      phrase: "O encanador arruma a pia da cozinha.",
+    },
+    {
+      english: "Salesperson",
+      portuguese: "Vendedor / Vendedora",
+      image: "images/30sales.png",
+      phrase: "A vendedora trabalha na loja de roupas.",
+    },
+    {
+      english: "Waiter / Waitress",
+      portuguese: "Garçom / Garçonete",
+      image: "images/30waiter.png",
+      phrase: "O garçom traz o pedido para a mesa.",
+    },
+    {
+      english: "Farmer",
+      portuguese: "Fazendeiro / Fazendeira",
+      image: "images/30farmer.png",
+      phrase: "O fazendeiro planta milho e soja.",
+    },
+    {
+      english: "Veterinarian",
+      portuguese: "Veterinário / Veterinária",
+      image: "images/30vet.png",
+      phrase: "A veterinária cuida dos animais doentes.",
+    },
+    {
+      english: "Musician",
+      portuguese: "Músico / Música",
+      image: "images/30musician.png",
+      phrase: "O músico toca violão muito bem.",
+    },
+    {
+      english: "Hairdresser",
+      portuguese: "Cabeleireiro / Cabeleireira",
+      image: "images/30hair.png",
+      phrase: "A cabeleireira corta o meu cabelo.",
+    }
+  ]
 };
 
 // ----------------------
