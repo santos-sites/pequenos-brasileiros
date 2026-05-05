@@ -3462,102 +3462,102 @@ function showMainMenu() {
 <div class="levels-container">
     <div class="levels-scroll">
       <button class="level-btn level1-btn" onclick="showLevelMenu(1)">
-        <span>Família (Nível 1)</span>
+        <span>Família</span>
       </button>
       <button class="level-btn level2-btn" onclick="showLevelMenu(2)">
-        <span>Animais (Nível 2)</span>
+        <span>Animais</span>
       </button>
       <button class="level-btn level3-btn" onclick="showLevelMenu(3)">
-        <span>Jogos (Nível 3)</span>
+        <span>Jogos</span>
       </button>
       <button class="level-btn level4-btn" onclick="showLevelMenu(4)">
-        <span>Escola (Nível 4)</span>
+        <span>Escola</span>
       </button>
       <button class="level-btn level5-btn" onclick="showLevelMenu(5)">
-        <span>Restaurantes (Nível 5)</span>
+        <span>Restaurantes</span>
       </button>
       <button class="level-btn level6-btn" onclick="showLevelMenu(6)">
-        <span>Aleatório (Nível 6)</span>
+        <span>Aleatório</span>
       </button>
       </div>
       <div class="levels-scroll">
       <button class="level-btn level7-btn" onclick="showLevelMenu(7)">
-        <span>Família 2 (Nível 7)</span>
+        <span>Família 2</span>
       </button>
       <button class="level-btn level8-btn" onclick="showLevelMenu(8)">
-        <span>Animais 2(Nível 8)</span>
+        <span>Animais 2</span>
       </button>
       <button class="level-btn level9-btn" onclick="showLevelMenu(9)">
-        <span>Jogos 2(Nível 9)</span>
+        <span>Jogos 2</span>
       </button>
       <button class="level-btn level10-btn" onclick="showLevelMenu(10)">
-        <span>Escola 2(Nível 10)</span>
+        <span>Escola 2</span>
       </button>
       <button class="level-btn level11-btn" onclick="showLevelMenu(11)">
-        <span>Restaurantes 2(Nível 11)</span>
+        <span>Restaurantes 2</span>
       </button>
       <button class="level-btn level12-btn" onclick="showLevelMenu(12)">
-        <span>Aleatório 2(Nível 12)</span>
+        <span>Aleatório 2</span>
       </button>
     </div>
 <div class="levels-scroll">
       <button class="level-btn level13-btn" onclick="showLevelMenu(13)">
-        <span>Cores e Formas(Nível 13)</span>
+        <span>Cores e Formas</span>
       </button>
       <button class="level-btn level14-btn" onclick="showLevelMenu(14)">
-        <span>Números(Nível 14)</span>
+        <span>Números</span>
       </button>
       <button class="level-btn level15-btn" onclick="showLevelMenu(15)">
-        <span>Números 2(Nível 15)</span>
+        <span>Números 2</span>
       </button>
       <button class="level-btn level16-btn" onclick="showLevelMenu(16)">
-        <span>O Corpo(Nível 16)</span>
+        <span>O Corpo</span>
       </button>
       <button class="level-btn level17-btn" onclick="showLevelMenu(17)">
-        <span>Clima e Natureza(Nível 17)</span>
+        <span>Clima e Natureza</span>
       </button>
       <button class="level-btn level18-btn" onclick="showLevelMenu(18)">
-        <span>Rotina(Nível 18)</span>
+        <span>Rotina</span>
       </button>
     </div>
 <div class="levels-scroll">
       <button class="level-btn level19-btn" onclick="showLevelMenu(19)">
-        <span>Família 2 (Nível 19)</span>
+        <span>Na Cozinha</span>
       </button>
       <button class="level-btn level20-btn" onclick="showLevelMenu(20)">
-        <span>Animais 2(Nível 20)</span>
+        <span>Roupas</span>
       </button>
       <button class="level-btn level21-btn" onclick="showLevelMenu(21)">
-        <span>Jogos 2(Nível 21)</span>
+        <span>Sentimentos</span>
       </button>
       <button class="level-btn level22-btn" onclick="showLevelMenu(22)">
-        <span>Escola 2(Nível 22)</span>
+        <span>Móveis e Cômodos</span>
       </button>
       <button class="level-btn level23-btn" onclick="showLevelMenu(23)">
-        <span>Restaurantes 2(Nível 23)</span>
+        <span>Na Cidade</span>
       </button>
       <button class="level-btn level24-btn" onclick="showLevelMenu(24)">
-        <span>Aleatório 2(Nível 24)</span>
+        <span>O Calendário</span>
       </button>
     </div>
 <div class="levels-scroll">
       <button class="level-btn level25-btn" onclick="showLevelMenu(25)">
-        <span>Família 2 (Nível 25)</span>
+        <span>Preposições</span>
       </button>
       <button class="level-btn level26-btn" onclick="showLevelMenu(26)">
-        <span>Animais 2(Nível 26)</span>
+        <span>Meios de Transporte</span>
       </button>
       <button class="level-btn level27-btn" onclick="showLevelMenu(27)">
-        <span>Jogos 2(Nível 27)</span>
+        <span>Opostos</span>
       </button>
       <button class="level-btn level28-btn" onclick="showLevelMenu(28)">
-        <span>Escola 2(Nível 28)</span>
+        <span>Boas Maneiras</span>
       </button>
       <button class="level-btn level29-btn" onclick="showLevelMenu(29)">
-        <span>Restaurantes 2(Nível 29)</span>
+        <span>Comunidade</span>
       </button>
       <button class="level-btn level30-btn" onclick="showLevelMenu(30)">
-        <span>Aleatório 2(Nível 30)</span>
+        <span>Profissões</span>
       </button>
     </div>
 </div>
