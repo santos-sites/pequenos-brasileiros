@@ -69,52 +69,54 @@ img.book-img {
   padding-right: 10px;      /* optional: keeps scrollbar from overlapping */
 }
 
-/* 1. The Container: This forces everything into one horizontal line */
+/* 1. The Container: Keeps everything in a neat, single horizontal line */
 .levels-scroll {
   display: flex;
-  flex-wrap: nowrap;       /* Strictly prevent stacking */
-  gap: 15px;               /* Space between buttons */
-  padding: 20px;
-  overflow-x: auto;        /* Allows horizontal swiping/scrolling */
-  webkit-overflow-scrolling: touch; /* Makes scrolling smooth on phones */
-  scroll-snap-type: x mandatory;    /* Helps buttons "snap" into place */
+  flex-wrap: nowrap;       /* Strictly horizontal */
+  gap: 12px;               /* Space between buttons */
+  padding: 10px 5px;       /* Top/bottom padding to prevent clipping */
+  overflow-x: auto;        /* Swiping enabled */
+  overflow-y: hidden;      /* KILLS the vertical scroll */
+  webkit-overflow-scrolling: touch;
+  scroll-snap-type: x mandatory;
 }
 
-/* 2. The Buttons: This controls their size and shape */
+/* 2. The Buttons: Resizes based on the screen width */
 .level-btn {
-  /* This prevents the buttons from shrinking or growing */
-  flex: 0 0 auto; 
+  flex: 0 0 100px;         /* Base width on small screens */
   
-  /* Adjust these numbers to change the button size */
-  width: 110px; 
-  height: 110px; 
-  
+  /* Use 'vh' (viewport height) to ensure they never get taller 
+     than a small fraction of the screen height */
+  height: 18vh;            
+  max-height: 120px;       /* Caps the size on tablets/desktops */
+  min-height: 80px;        /* Ensures they don't disappear on tiny screens */
+
   border: none;
-  border-radius: 18px;
+  border-radius: 15px;
   background-size: cover;
   background-position: center;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  padding: 8px;
+  padding: 6px;
   cursor: pointer;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  scroll-snap-align: start; /* Works with the container 'snap' setting */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  scroll-snap-align: start;
   position: relative;
 }
 
-/* 3. The Text: Keeps the title neat at the bottom */
+/* 3. The Text: Keeps titles legible without stretching the button */
 .level-btn span {
   background-color: rgba(0, 0, 0, 0.6);
-  padding: 4px 6px;
-  border-radius: 6px;
+  padding: 3px 5px;
+  border-radius: 5px;
   color: #fff;
-  font-size: 0.7rem;
+  font-size: 0.7rem;       /* Slightly smaller to fit more text */
   width: 100%;
   text-align: center;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: normal;     /* Allows text to wrap slightly if needed */
+  line-height: 1.1;
+  word-wrap: break-word;   /* Prevents long words from breaking the layout */
 }
 
 /* This handles the text labels on the buttons */
