@@ -2363,43 +2363,43 @@ function showMainMenu() {
       </button>
     </div>
 <div class="levels-scroll">
-      <button class="level-btn level7-btn" onclick="showLevelMenu(7)">
-        <span>Família 2 (Nível 7)</span>
+      <button class="level-btn level19-btn" onclick="showLevelMenu(19)">
+        <span>Família 2 (Nível 19)</span>
       </button>
-      <button class="level-btn level8-btn" onclick="showLevelMenu(8)">
-        <span>Animais 2(Nível 8)</span>
+      <button class="level-btn level20-btn" onclick="showLevelMenu(20)">
+        <span>Animais 2(Nível 20)</span>
       </button>
-      <button class="level-btn level9-btn" onclick="showLevelMenu(9)">
-        <span>Jogos 2(Nível 9)</span>
+      <button class="level-btn level21-btn" onclick="showLevelMenu(21)">
+        <span>Jogos 2(Nível 21)</span>
       </button>
-      <button class="level-btn level10-btn" onclick="showLevelMenu(10)">
-        <span>Escola 2(Nível 10)</span>
+      <button class="level-btn level22-btn" onclick="showLevelMenu(22)">
+        <span>Escola 2(Nível 22)</span>
       </button>
-      <button class="level-btn level11-btn" onclick="showLevelMenu(11)">
-        <span>Restaurantes 2(Nível 11)</span>
+      <button class="level-btn level23-btn" onclick="showLevelMenu(23)">
+        <span>Restaurantes 2(Nível 23)</span>
       </button>
-      <button class="level-btn level12-btn" onclick="showLevelMenu(12)">
-        <span>Aleatório 2(Nível 12)</span>
+      <button class="level-btn level24-btn" onclick="showLevelMenu(24)">
+        <span>Aleatório 2(Nível 24)</span>
       </button>
     </div>
 <div class="levels-scroll">
-      <button class="level-btn level7-btn" onclick="showLevelMenu(7)">
-        <span>Família 2 (Nível 7)</span>
+      <button class="level-btn level25-btn" onclick="showLevelMenu(25)">
+        <span>Família 2 (Nível 25)</span>
       </button>
-      <button class="level-btn level8-btn" onclick="showLevelMenu(8)">
-        <span>Animais 2(Nível 8)</span>
+      <button class="level-btn level26-btn" onclick="showLevelMenu(26)">
+        <span>Animais 2(Nível 26)</span>
       </button>
-      <button class="level-btn level9-btn" onclick="showLevelMenu(9)">
-        <span>Jogos 2(Nível 9)</span>
+      <button class="level-btn level27-btn" onclick="showLevelMenu(27)">
+        <span>Jogos 2(Nível 27)</span>
       </button>
-      <button class="level-btn level10-btn" onclick="showLevelMenu(10)">
-        <span>Escola 2(Nível 10)</span>
+      <button class="level-btn level28-btn" onclick="showLevelMenu(28)">
+        <span>Escola 2(Nível 28)</span>
       </button>
-      <button class="level-btn level11-btn" onclick="showLevelMenu(11)">
-        <span>Restaurantes 2(Nível 11)</span>
+      <button class="level-btn level29-btn" onclick="showLevelMenu(29)">
+        <span>Restaurantes 2(Nível 29)</span>
       </button>
-      <button class="level-btn level12-btn" onclick="showLevelMenu(12)">
-        <span>Aleatório 2(Nível 12)</span>
+      <button class="level-btn level30-btn" onclick="showLevelMenu(30)">
+        <span>Aleatório 2(Nível 30)</span>
       </button>
     </div>
 </div>
