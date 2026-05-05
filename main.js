@@ -2714,6 +2714,156 @@ const allLevelsWords = {
       phrase: "O motorista dirige com cuidado.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 27 - Opposites (Opostos)
+  // ----------------------
+  27: [
+    {
+      english: "Big",
+      portuguese: "Grande",
+      image: "images/27big.png",
+      phrase: "O elefante é muito grande.",
+    },
+    {
+      english: "Small",
+      portuguese: "Pequeno",
+      image: "images/27small.png",
+      phrase: "O rato é bem pequeno.",
+    },
+    {
+      english: "Fast",
+      portuguese: "Rápido",
+      image: "images/27fast.png",
+      phrase: "O coelho corre muito rápido.",
+    },
+    {
+      english: "Slow",
+      portuguese: "Devagar",
+      image: "images/27slow.png",
+      phrase: "A tartaruga caminha devagar.",
+    },
+    {
+      english: "Hot",
+      portuguese: "Quente",
+      image: "images/27hot.png",
+      phrase: "O café está muito quente.",
+    },
+    {
+      english: "Cold",
+      portuguese: "Frio",
+      image: "images/27cold.png",
+      phrase: "Eu gosto de água bem fria.",
+    },
+    {
+      english: "Open",
+      portuguese: "Aberto",
+      image: "images/27open.png",
+      phrase: "A porta está aberta.",
+    },
+    {
+      english: "Closed",
+      portuguese: "Fechado",
+      image: "images/27closed.png",
+      phrase: "O mercado está fechado agora.",
+    },
+    {
+      english: "Clean",
+      portuguese: "Limpo",
+      image: "images/27clean.png",
+      phrase: "Meu quarto está todo limpo.",
+    },
+    {
+      english: "Dirty",
+      portuguese: "Sujo",
+      image: "images/27dirty.png",
+      phrase: "O sapato ficou sujo de lama.",
+    },
+    {
+      english: "New",
+      portuguese: "Novo",
+      image: "images/27new.png",
+      phrase: "Eu comprei um carro novo.",
+    },
+    {
+      english: "Old",
+      portuguese: "Velho",
+      image: "images/27old.png",
+      phrase: "Este livro é muito velho.",
+    },
+    {
+      english: "Heavy",
+      portuguese: "Pesado",
+      image: "images/27heavy.png",
+      phrase: "Esta caixa está muito pesada.",
+    },
+    {
+      english: "Light",
+      portuguese: "Leve",
+      image: "images/27light.png",
+      phrase: "A pena é muito leve.",
+    },
+    {
+      english: "Happy",
+      portuguese: "Feliz",
+      image: "images/27happy.png",
+      phrase: "Hoje eu acordei muito feliz.",
+    },
+    {
+      english: "Sad",
+      portuguese: "Triste",
+      image: "images/27sad.png",
+      phrase: "Não fique triste, vamos brincar.",
+    },
+    {
+      english: "Full",
+      portuguese: "Cheio",
+      image: "images/27full.png",
+      phrase: "O copo está cheio de suco.",
+    },
+    {
+      english: "Empty",
+      portuguese: "Vazio",
+      image: "images/27empty.png",
+      phrase: "O prato está vazio.",
+    },
+    {
+      english: "Easy",
+      portuguese: "Fácil",
+      image: "images/27easy.png",
+      phrase: "A lição de hoje foi muito fácil.",
+    },
+    {
+      english: "Difficult",
+      portuguese: "Difícil",
+      image: "images/27difficult.png",
+      phrase: "Este quebra-cabeça é difícil.",
+    },
+    {
+      english: "Beautiful",
+      portuguese: "Bonito",
+      image: "images/27beautiful.png",
+      phrase: "O pôr do sol está bonito.",
+    },
+    {
+      english: "Ugly",
+      portuguese: "Feio",
+      image: "images/27ugly.png",
+      phrase: "Eu acho esse desenho feio.",
+    },
+    {
+      english: "Quiet",
+      portuguese: "Silencioso",
+      image: "images/27quiet.png",
+      phrase: "O corredor está silencioso.",
+    },
+    {
+      english: "Loud / Noisy",
+      portuguese: "Barulhento",
+      image: "images/27loud.png",
+      phrase: "O vizinho é muito barulhento.",
+    }
+  ],
 };
 
 // ----------------------
