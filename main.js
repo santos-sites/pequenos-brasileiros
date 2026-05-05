@@ -1322,7 +1322,7 @@ const allLevelsWords = {
     },
    
   ],
-  
+
   // ----------------------
   // LEVEL 16 - Parts of the Body (O Corpo)
   // ----------------------
@@ -1860,14 +1860,14 @@ function showMainMenu() {
       <button class="level-btn level15-btn" onclick="showLevelMenu(15)">
         <span>Números 2(Nível 15)</span>
       </button>
-      <button class="level-btn level10-btn" onclick="showLevelMenu(10)">
-        <span>Escola 2(Nível 10)</span>
+      <button class="level-btn level16-btn" onclick="showLevelMenu(16)">
+        <span>O Corpo(Nível 16)</span>
       </button>
-      <button class="level-btn level11-btn" onclick="showLevelMenu(11)">
-        <span>Restaurantes 2(Nível 11)</span>
+      <button class="level-btn level17-btn" onclick="showLevelMenu(17)">
+        <span>Clima e Natureza(Nível 17)</span>
       </button>
-      <button class="level-btn level12-btn" onclick="showLevelMenu(12)">
-        <span>Aleatório 2(Nível 12)</span>
+      <button class="level-btn level18-btn" onclick="showLevelMenu(18)">
+        <span>Rotina(Nível 18)</span>
       </button>
     </div>
 <div class="levels-scroll">
