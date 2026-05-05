@@ -81,32 +81,54 @@ img.book-img {
   -webkit-overflow-scrolling: touch;
 }
 
+/* --- Consolidated & Responsive Level Buttons --- */
 .level-btn {
-  flex: 0 0 40%;
-  max-width: 120px;
-	min-height: 70px;
+  /* This ensures 3 buttons fit across most screens with a small gap */
+  flex: 0 0 calc(33.33% - 10px); 
+  
+  /* This keeps them perfectly square regardless of screen width */
+  aspect-ratio: 1 / 1; 
+  
+  /* Limits how big or small they can get on different devices */
+  min-width: 85px;
+  max-width: 140px;
+
   border: none;
-  border-radius: 20px;       /* slightly larger radius for style */
+  border-radius: 20px;
   background-size: cover;
   background-position: center;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  padding: 0.2rem;
+  padding: 8px;
   cursor: pointer;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-  scroll-snap-align: center;
+  scroll-snap-align: start;
   color: #fff;
-  font-size: 0.9rem;
-  text-align: center;
   position: relative;
   transition: transform 0.2s ease;
-  min-width: 0.9rem;
+  overflow: hidden; /* Keeps everything contained */
 }
 
-.level-btn {
-  flex: 0 0 auto; /* prevent buttons from shrinking */
-  scroll-snap-align: start;
+/* This handles the text labels on the buttons */
+.level-btn span {
+  position: relative;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.6); /* Darker for better legibility */
+  padding: 4px 6px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 0.75rem;
+  width: 100%;
+  text-align: center;
+  white-space: nowrap;      /* Keeps text on one line */
+  overflow: hidden;         /* Hides text if it's too long */
+  text-overflow: ellipsis;  /* Adds "..." if the word is too long */
+}
+
+/* Hover effect to make it feel interactive */
+.level-btn:hover {
+  transform: scale(1.05);
 }
 
 .level-btn::after {
@@ -116,24 +138,13 @@ img.book-img {
   left: 0;
   width: 100%;
   height: 100%;
-  border-radius: 20px;
   background: rgba(255, 255, 255, 0);
   transition: background 0.2s ease;
   pointer-events: none;
 }
 
 .level-btn:hover::after {
-  background: rgba(255, 255, 255, 0.2);
-}
-
-.level-btn span {
-  position: relative;
-  z-index: 1;
-  background-color: rgba(0, 0, 0, 0.4);
-  padding: 1px 2px;
-  border-radius: 5px;
-  color: #fff;
-  font-size: 0.7rem;
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .level1-btn {
