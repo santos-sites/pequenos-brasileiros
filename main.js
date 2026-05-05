@@ -2570,6 +2570,150 @@ const allLevelsWords = {
       phrase: "Nós caminhamos em direção à praia.",
     },
   ],
+
+  // ----------------------
+  // LEVEL 26 - Transportation (Meios de Transporte)
+  // ----------------------
+  26: [
+    {
+      english: "Car",
+      portuguese: "Carro",
+      image: "images/26car.png",
+      phrase: "O carro está na garagem.",
+    },
+    {
+      english: "Bus",
+      portuguese: "Ônibus",
+      image: "images/26bus.png",
+      phrase: "Eu pego o ônibus para ir ao trabalho.",
+    },
+    {
+      english: "Bicycle",
+      portuguese: "Bicicleta",
+      image: "images/26bike.png",
+      phrase: "Andar de bicicleta é um ótimo exercício.",
+    },
+    {
+      english: "Motorcycle",
+      portuguese: "Moto",
+      image: "images/26motorcycle.png",
+      phrase: "Ele pilota uma moto amarela.",
+    },
+    {
+      english: "Train",
+      portuguese: "Trem",
+      image: "images/26train.png",
+      phrase: "O trem chega na estação às oito horas.",
+    },
+    {
+      english: "Subway",
+      portuguese: "Metrô",
+      image: "images/26subway.png",
+      phrase: "O metrô é muito rápido.",
+    },
+    {
+      english: "Airplane",
+      portuguese: "Avião",
+      image: "images/26airplane.png",
+      phrase: "O avião está voando acima das nuvens.",
+    },
+    {
+      english: "Boat",
+      portuguese: "Barco",
+      image: "images/26boat.png",
+      phrase: "O barco navega no rio.",
+    },
+    {
+      english: "Truck",
+      portuguese: "Caminhão",
+      image: "images/26truck.png",
+      phrase: "O caminhão carrega muitas caixas.",
+    },
+    {
+      english: "Taxi",
+      portuguese: "Táxi",
+      image: "images/26taxi.png",
+      phrase: "Chame um táxi para ir ao aeroporto.",
+    },
+    {
+      english: "Helicopter",
+      portuguese: "Helicóptero",
+      image: "images/26helicopter.png",
+      phrase: "O helicóptero pousou no prédio.",
+    },
+    {
+      english: "Scooter",
+      portuguese: "Patinete",
+      image: "images/26scooter.png",
+      phrase: "A criança brinca com o patinete.",
+    },
+    {
+      english: "Skateboard",
+      portuguese: "Skate",
+      image: "images/26skateboard.png",
+      phrase: "Ele gosta de andar de skate no parque.",
+    },
+    {
+      english: "Van",
+      portuguese: "Van",
+      image: "images/26van.png",
+      phrase: "A van leva os alunos para a escola.",
+    },
+    {
+      english: "Ship",
+      portuguese: "Navio",
+      image: "images/26ship.png",
+      phrase: "O navio cruza o oceano.",
+    },
+    {
+      english: "Rocket",
+      portuguese: "Foguete",
+      image: "images/26rocket.png",
+      phrase: "O foguete vai para o espaço.",
+    },
+    {
+      english: "Ambulance",
+      portuguese: "Ambulância",
+      image: "images/26ambulance.png",
+      phrase: "A ambulância está com a sirene ligada.",
+    },
+    {
+      english: "Fire Truck",
+      portuguese: "Caminhão de bombeiro",
+      image: "images/26fire.png",
+      phrase: "O caminhão de bombeiro é vermelho.",
+    },
+    {
+      english: "Tractor",
+      portuguese: "Trator",
+      image: "images/26tractor.png",
+      phrase: "O trator trabalha na fazenda.",
+    },
+    {
+      english: "Stroller",
+      portuguese: "Carrinho de bebê",
+      image: "images/26stroller.png",
+      phrase: "O bebê dorme no carrinho de bebê.",
+    },
+    {
+      english: "Walking",
+      portuguese: "A pé",
+      image: "images/26walking.png",
+      phrase: "Eu prefiro ir a pé para a padaria.",
+    },
+    {
+      english: "Station",
+      portuguese: "Estação",
+      image: "images/26station.png",
+      phrase: "Nos encontramos na estação de trem.",
+    },
+    {
+      english: "Driver",
+      portuguese: "Motorista",
+      image: "images/26driver.png",
+      phrase: "O motorista dirige com cuidado.",
+    }
+  ],
 };
 
 // ----------------------
