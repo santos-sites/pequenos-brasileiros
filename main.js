@@ -1880,6 +1880,120 @@ const allLevelsWords = {
       phrase: "Minhas luvas são pretas.",
     }
   ],
+
+  // ----------------------
+  // LEVEL 21 - Feelings (Sentimentos)
+  // ----------------------
+  21: [
+    {
+      english: "Happy",
+      portuguese: "Feliz",
+      image: "images/21happy.png",
+      phrase: "Eu estou muito feliz hoje.",
+    },
+    {
+      english: "Sad",
+      portuguese: "Triste",
+      image: "images/21sad.png",
+      phrase: "Não fique triste, tudo vai dar certo.",
+    },
+    {
+      english: "Angry",
+      portuguese: "Bravo",
+      image: "images/21angry.png",
+      phrase: "Ele está bravo porque perdeu o ônibus.",
+    },
+    {
+      english: "Tired",
+      portuguese: "Cansado",
+      image: "images/21tired.png",
+      phrase: "Eu trabalhei muito e estou cansado.",
+    },
+    {
+      english: "Excited",
+      portuguese: "Animado",
+      image: "images/21excited.png",
+      phrase: "Estou animado para a nossa viagem.",
+    },
+    {
+      english: "Scared",
+      portuguese: "Assustado",
+      image: "images/21scared.png",
+      phrase: "O gato ficou assustado com o barulho.",
+    },
+    {
+      english: "Hungry",
+      portuguese: "Com fome",
+      image: "images/21hungry.png",
+      phrase: "Eu estou com muita fome agora.",
+    },
+    {
+      english: "Thirsty",
+      portuguese: "Com sede",
+      image: "images/21thirsty.png",
+      phrase: "Pode me dar um pouco de água? Estou com sede.",
+    },
+    {
+      english: "Calm",
+      portuguese: "Calmo",
+      image: "images/21calm.png",
+      phrase: "O mar está muito calmo hoje.",
+    },
+    {
+      english: "Surprised",
+      portuguese: "Surpreso",
+      image: "images/21surprised.png",
+      phrase: "Eu fiquei surpreso com o presente.",
+    },
+    {
+      english: "Bored",
+      portuguese: "Entediado",
+      image: "images/21bored.png",
+      phrase: "Não tenho nada para fazer, estou entediado.",
+    },
+    {
+      english: "Confused",
+      portuguese: "Confuso",
+      image: "images/21confused.png",
+      phrase: "Eu não entendi a lição, estou confuso.",
+    },
+    {
+      english: "Proud",
+      portuguese: "Orgulhoso",
+      image: "images/21proud.png",
+      phrase: "Estou muito orgulhoso do seu trabalho.",
+    },
+    {
+      english: "Nervous",
+      portuguese: "Nervoso",
+      image: "images/21nervous.png",
+      phrase: "Eu fico nervoso antes de uma apresentação.",
+    },
+    {
+      english: "Sick",
+      portuguese: "Doente",
+      image: "images/21sick.png",
+      phrase: "Eu não vou trabalhar hoje porque estou doente.",
+    },
+    {
+      english: "Hot",
+      portuguese: "Com calor",
+      image: "images/21hot.png",
+      phrase: "Abra a janela, por favor, estou com calor.",
+    },
+    {
+      english: "Cold",
+      portuguese: "Com frio",
+      image: "images/21cold.png",
+      phrase: "Eu preciso de um cobertor, estou com frio.",
+    },
+    {
+      english: "Sleepy",
+      portuguese: "Com sono",
+      image: "images/21sleepy.png",
+      phrase: "Já é tarde e eu estou com sono.",
+    }
+  ],
 };
 
 // ----------------------
