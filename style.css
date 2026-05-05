@@ -73,13 +73,13 @@ img.book-img {
 .levels-scroll {
   display: flex;
   flex-wrap: nowrap;
-  gap: 12px;
-  /* Top: 15px, Right: 10px, Bottom: 30px, Left: 10px */
-  padding: 15px 10px 30px 10px; 
-  overflow-x: auto;
-  overflow-y: hidden;
-  webkit-overflow-scrolling: touch;
+  gap: 10px;
+  overflow-x: auto;          /* horizontal scroll only */
+  overflow-y: hidden;        /* prevent clipping vertically */
+  padding: 5px 0;           /* ⬅ extra breathing room top/bottom */
   scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* 2. The Buttons: Adjusted for better scaling */
