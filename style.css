@@ -90,9 +90,9 @@ img.book-img {
   max-width: 130px;        /* Prevents them from getting too huge */
   
   /* Height is tied to the screen height to prevent vertical overflow */
-  height: 15vh;            
+  height: 12vh;            
   min-height: 80px;
-  max-height: 110px;
+  max-height: 100px;
 
   border: none;
   border-radius: 15px;
