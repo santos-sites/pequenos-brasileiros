@@ -3458,7 +3458,7 @@ function showMainMenu() {
    
   <div class="card">
     <h1>Bem-vindo, ${activeProfile.avatar} ${activeProfile.name}!</h1>
-    <h2>Escolha uma ilha (nível)</h2>
+    <h2>Escolha uma ilha </h2>
 <div class="levels-container">
     <div class="levels-scroll">
       <button class="level-btn level1-btn" onclick="showLevelMenu(1)">
