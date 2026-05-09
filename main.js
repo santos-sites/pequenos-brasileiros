@@ -5499,8 +5499,8 @@ const allStories = [
           en: "She scored! The whole team clapped and cheered. Clara grinned from ear to ear. They won the championship! Her whole team lifted her in the air to celebrate.",
         },
         audio: {
-          pt: "audio/historias/historia3_page4.mp3",
-          en: "audio/historias/en/historia3_page4.mp3",
+          pt: "audio/historias/historia3_page5.mp3",
+          en: "audio/historias/en/historia3_page5.mp3",
         },
       },
     ],
